@@ -7,7 +7,7 @@
 </a>
 <br>
 <p>
-Beginner to the wonderful Coding world 🌎 ECE Engineer From . <a href=https://www.vcetputtur.ac.in/ > VCET</a> , Puttur.
+Beginner to the wonderful Coding world 🌎 ECE Engineer From <a href=https://www.vcetputtur.ac.in/ > VCET</a> , Puttur.
 </p>
 
 
