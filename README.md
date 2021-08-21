@@ -41,7 +41,7 @@ I'm Gourav, <br>ECE Engineer From<a href=https://www.vcetputtur.ac.in/ > VCET</a
 </p>
 
 <!-- -->
-- 🌱 I’m currently learning ElectronJS, AdvanceCSS, 
+- 🌱 I’m currently learning HTML,CSS. 
 - 🔭 I’m currently working on creating a program similar to Jupyternotebook but works for all programing language.
 - ⚡ Fun fact: Never used PyCharm or IntelliJ or any such IDE cuz VScode is everything for me.
 
