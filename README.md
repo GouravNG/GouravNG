@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Gourav
 - 👀 I’m interested in Web dev.
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently learning MERN Stack + NEXT js.
