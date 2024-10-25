@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Gourav
 - 👀 I’m interested in Web dev.
 - 🌱 I’m currently learning MERN Stack + NEXT js.
-- 🏗️ Building the recipe sharing site
+- 🏗️ Building the recipe sharing site and H&M Clone
