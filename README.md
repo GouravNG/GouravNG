@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Gourav
 - 👀 I’m interested in Web dev.
-- 🌱 I’m currently learning MERN Stack + NEXT js.
+- 🌱 I’m currently learning Fronend with React and Nextjs.
 - 🏗️ Building the recipe sharing site and H&M Clone
+- Email gouravgunaga555@gmail.com
