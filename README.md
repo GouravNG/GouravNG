@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gourav
 - 👀 I’m interested in Web dev.
 - 🌱 I’m currently learning Fronend with React and Nextjs.
-- 🏗️ Built the habit tracker app. checkout here [Habit Tracker](habit-tracker555.vercel.app)
+- 🏗️ Built the habit tracker app. checkout here [Habit Tracker](www.habit-tracker555.vercel.app)
 - Email gouravgunaga555@gmail.com
