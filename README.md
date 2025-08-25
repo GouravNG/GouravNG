@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gourav  
 - 👀 I’m interested in Web dev.  
 - 🌱 I’m currently learning Frontend with React and Next.js.  
-- 🏦 Built the habit tracker app. Check it out here: [Habit Tracker](https://habit-tracker555.vercel.app)
+- 🏦 Built the Kanban-board. Check it out here: [Knbn Board](https://knbn-board.vercel.app)
 - 📫 Email: gouravgunaga555@gmail.com  
 
 ### 🛠 Tech Stack
